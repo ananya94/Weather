@@ -1,0 +1,22 @@
+body{
+    background-image: url("http://cdn.meteo-europ.com/img/background/background.jpg");
+    background-size: cover;
+    font-size: 15px;
+    align-content: center;
+    margin: 0 auto;
+    width: 24%;
+}
+h2 { 
+    font-family: 'PT Sans', sans-serif;
+    color: #ffd53f;
+    font-weight: bold;
+}
+input {
+    display: inline;
+    margin: 0 auto;
+}
+#container{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
