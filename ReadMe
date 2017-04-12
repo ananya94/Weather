@@ -1,0 +1,3 @@
+Using the current weather using loaction API provided by Open Weather, a basic temple is created to display the weather at 3 specific locations. 
+Chicago, Manhattan and LA. 
+The application will soon be formatted to display the current weather at a user specified loaction (using the Lat and Long coordinates obtained by the navigator.geolocator tool.
